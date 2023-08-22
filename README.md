@@ -60,8 +60,8 @@
         <li>Посмотрим, как менялось общее количество уроков на балансах студентов. Для этого просуммируем поля transaction_balance_change, transaction_balance_change_cs, classes, classes_cs, balance из CTE balances с группировкой и сортировкой по dt</li>
 </ol>
 
-> <a href="https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%205.xlsx">Ссылка на проект</a>
-(ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
+> <a href="https://github.com/stepan-portfolio/data-analytics/blob/main/Project%202.xlsx">Project 2</a>
+
  
  <p>Вывод (итог):<p>
 <ol>
