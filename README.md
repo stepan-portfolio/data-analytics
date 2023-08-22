@@ -30,7 +30,7 @@
         
 
 
-> <a href="https://github.com/stepan-portfolio/data-analytics/blob/main/Project%201.xlsx">
+> <a href="https://github.com/stepan-portfolio/data-analytics/blob/main/Project%201.xlsx">Project 1</a>
 <p>Выводы (итоги):<p>
 <ol>
   <li>Получили исправно работающий калькулятор юнит-экономики, при помощи которого можно посчитать какие показатели должны соотвествовать 25%-ой маржинальности</li>
