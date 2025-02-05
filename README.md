@@ -69,6 +69,6 @@
 </ol>
 
 ## Контактная информация
-- Email: stepantchudinovskih@yandex.ru
+- Email: stepan.chudinovskikh@gmail.com
 
 
